@@ -19,6 +19,8 @@ Copy the contents of `rose-pine`, `rose-pine-dawn` or `rose-pine-moon` to your `
 xrdb ~/.Xresources   
 ```
 
+The values can also be copied and imported to colorscheme generators like [terminal.sexy](https://terminal.sexy)
+
 ## Thanks to
 
 - [harishnkr](https://github.com/harishnkr)
