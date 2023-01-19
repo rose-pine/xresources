@@ -17,10 +17,6 @@
 2. Under settings, import `rose-pine.theme`
 3. Select `Rosé Pine` from the themes dropdown
 
-## Gallery
-
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
-
 ## Thanks to
 
 - [harishnkr](https://github.com/harishnkr)
