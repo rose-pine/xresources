@@ -13,7 +13,7 @@
 
 ## Usage
 
-Copy the contents of `rose-pine`, `rose-pine-dawn` or `rose-pine-moon` to your `.Xresources` file (preferably on top and execute the following to take effect:
+Copy the contents of `rose-pine`, `rose-pine-dawn` or `rose-pine-moon` to your `.Xresources` file and execute the following to take effect:
 
 ```sh
 xrdb ~/.Xresources   
