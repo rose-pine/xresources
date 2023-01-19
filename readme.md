@@ -13,9 +13,11 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+Copy the contents of `rose-pine`, `rose-pine-dawn` or `rose-pine-moon` to your `.Xresources` file (preferably on top and execute the following to take effect:
+
+```sh
+xrdb ~/.Xresources   
+```
 
 ## Thanks to
 
