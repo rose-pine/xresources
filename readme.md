@@ -21,6 +21,22 @@ xrdb ~/.Xresources
 
 The values can also be copied and imported to colorscheme generators like [terminal.sexy](https://terminal.sexy)
 
+
+## Gallery
+
+Rosé Pine
+
+![Rosé Pine](https://i.imgur.com/JejU3Fn.png)
+
+Rosé Pine Moon
+
+![Rosé Pine Moon](https://i.imgur.com/JnpFUXo.png)
+
+Rosé Pine Dawn
+
+![Rosé Pine Dawn](https://i.imgur.com/q9bF1xF.png)
+
 ## Thanks to
 
 - [harishnkr](https://github.com/harishnkr)
+- [Sarah Allen Reed](https://github.com/sarahallenreed)
